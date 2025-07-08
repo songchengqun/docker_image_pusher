@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 n8nio/n8n:latest
 ghcr.io/browserless/chromium
+ghcr.io/steel-dev/steel-browser-api:latest
+ghcr.io/steel-dev/steel-browser-ui:latest
